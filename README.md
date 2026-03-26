@@ -7,7 +7,7 @@
 
 ## 🚀 Featured Projects
 
-### [Refy – AI Referee Assistant](https://github.com/ahmadmusmar) &nbsp; 🏆 *Best Beginner Project — CodeJam 2025*
+### [Refy – AI Referee Assistant](https://github.com/Blicky135) &nbsp; 🏆 *Best Beginner Project — CodeJam 2025*
 `React` `TypeScript` `PWA` `Vite` `Gemini API`
 
 > A fully offline Progressive Web App replacing physical stopwatches for soccer referees.
@@ -19,7 +19,7 @@
 
 ---
 
-### [Amily – AI French Conversation Tutor](https://github.com/ahmadmusmar)
+### [Amily – AI French Conversation Tutor](https://github.com/Blicky135)
 `React` `JavaScript` `Gemini 2.5 Flash` `OpenAI API` `Vercel`
 
 > Full-stack AI language learning app for real-time French conversation practice.
